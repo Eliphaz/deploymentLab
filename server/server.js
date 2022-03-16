@@ -7,3 +7,7 @@ app.use(cors())
 app.use(express.json())
 
 const port = process.env.PORT || 5500
+
+app.listen(port, () =>{
+    console.log(`docked at port ${port}`)
+})
