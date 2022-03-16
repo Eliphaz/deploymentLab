@@ -1,7 +1,7 @@
 img {
   width: 60vw;
-  margin-left: 20vw;
-  margin-right: 20vw;
+  margin-left: 15vw;
+  margin-right: 15vw;
 }
 h1 {
   text-align: center;
@@ -15,4 +15,8 @@ p {
   color: white;
   text-align: center;
   font-size: larger;
+}
+
+img:hover {
+  width: 65vw;
 }
