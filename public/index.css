@@ -1,0 +1,18 @@
+img {
+  width: 60vw;
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: larger;
+}
